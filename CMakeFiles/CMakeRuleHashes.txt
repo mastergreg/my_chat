@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-bb9421e763f9af2af992a7cb824c82d8 my_chat.moc
