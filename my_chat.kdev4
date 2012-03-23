@@ -1,0 +1,4 @@
+[Project]
+Name=my_chat
+Manager=KDevCMakeManager
+VersionControl=

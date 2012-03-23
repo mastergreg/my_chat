@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/my_chat.dir/my_chat.cpp.o CMakeFiles/my_chat.dir/main.cpp.o  -o my_chat -rdynamic /usr/lib/qt4/libQtCore.so /usr/lib/qt4/libQtGui.so -Wl,-rpath,/usr/lib/qt4 
